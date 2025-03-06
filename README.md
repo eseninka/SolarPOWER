@@ -36,6 +36,7 @@ width=40% height=40%>
 
 Моделирование корпуса для SolarPower выполненно в КОМПАС-3D v.21. 
 Файлы проекта содержат stl модели для корпуса электроники и креплений для солнечной панели с сервоприводами
+
 <img src=https://github.com/user-attachments/assets/7b85a6f6-3ea9-49fc-bccb-2a00c1d447f5
 width=45% height=45%>
 <img src=https://github.com/user-attachments/assets/b6831352-5e87-4a07-b123-7b9ec91db5ce

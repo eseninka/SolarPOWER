@@ -43,6 +43,8 @@ width=45% height=45%>
 width=40% height=35%>
 
 
+Связь - eseninka2706@gmail.com
+
 
 
 

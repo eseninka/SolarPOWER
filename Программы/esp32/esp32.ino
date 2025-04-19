@@ -4,7 +4,7 @@
 
 #define WIFI_SSID "Kosta" // Имя wifi
 #define WIFI_PASS "aztj5781" // Пароль wifi
-#define BOT_TOKEN "7770393175:AAEkZgT6hxCY2SfAJm_HF8Nred8lKfsAWw0" //Токен бота
+#define BOT_TOKEN ""//Токен бота
 DHT dht(32, DHT11);  // сообщаем на каком порту будет датчик
 int q = 0;
 int q1 = 0;

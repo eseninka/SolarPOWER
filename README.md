@@ -72,7 +72,7 @@ width=45% height=45%>
 <img src=https://github.com/user-attachments/assets/b6831352-5e87-4a07-b123-7b9ec91db5ce
 width=40% height=35%>
 
-
+Лендинг сайт по проекту - http://solarpower.tilda.ws/
 Связь - eseninka2706@gmail.com
 
 

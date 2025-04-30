@@ -73,6 +73,8 @@ width=45% height=45%>
 width=40% height=35%>
 
 Лендинг сайт по проекту - http://solarpower.tilda.ws/
+
+
 Связь - eseninka2706@gmail.com
 
 
